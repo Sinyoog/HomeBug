@@ -1,0 +1,13 @@
+## This file must *NOT* be checked into Version Control Systems,
+# as it contains information specific to your local configuration.
+#
+# Location of the SDK. This is only used by Gradle.
+# For customization when using a Version Control System, please read the
+# header note.
+#
+# 아래 경로를 본인의 Android SDK 경로로 수정하세요
+# Windows 예시: sdk.dir=C\:\\Users\\YOUR_USERNAME\\AppData\\Local\\Android\\Sdk
+# Mac 예시: sdk.dir=/Users/YOUR_USERNAME/Library/Android/sdk
+# Linux 예시: sdk.dir=/home/YOUR_USERNAME/Android/Sdk
+
+sdk.dir=REPLACE_WITH_YOUR_SDK_PATH

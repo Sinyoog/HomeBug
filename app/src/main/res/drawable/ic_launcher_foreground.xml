@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="1.2"
+        android:scaleY="1.2"
+        android:translateX="10.8"
+        android:translateY="10.8">
+        <!-- House -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,25L25,45v35h15V60h28v20h15V45L54,25z" />
+        <path
+            android:fillColor="#E8F5E9"
+            android:pathData="M54,30L30,47v30h12V57h24v20h12V47L54,30z" />
+        
+        <!-- Bug body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M70,35 Q70,32 72,32 Q74,32 74,35 Q74,38 72,38 Q70,38 70,35z" />
+        
+        <!-- Bug antennae -->
+        <path
+            android:pathData="M71,32 L69,28 M73,32 L75,28"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.5"
+            android:strokeLineCap="round" />
+        
+        <!-- Bug legs -->
+        <path
+            android:pathData="M70,36 L67,37 M70,35 L67,35 M74,36 L77,37 M74,35 L77,35"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1"
+            android:strokeLineCap="round" />
+    </group>
+</vector>

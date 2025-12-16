@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">홈버그</string>
+    <string name="home_bug">HomeBug</string>
+    
+    <!-- Main Activity -->
+    <string name="identify_bug">벌레 식별하기</string>
+    <string name="recent_bugs">최근 검색한 벌레</string>
+    <string name="bug_encyclopedia">벌레 도감 보기</string>
+    <string name="find_service">주변 방역업체 찾기</string>
+    
+    <!-- Bug Categories -->
+    <string name="category_all">전체</string>
+    <string name="category_indoor">거미</string>
+    <string name="category_ant">개미</string>
+    <string name="category_cockroach">바퀴</string>
+    
+    <!-- Pest Names -->
+    <string name="spider">거미</string>
+    <string name="mosquito">모기</string>
+    <string name="mite">집개미</string>
+    <string name="german_cockroach">독일바퀴</string>
+    
+    <!-- Pest Details -->
+    <string name="size">크기</string>
+    <string name="habitat">서식지</string>
+    <string name="danger_level">위험도</string>
+    <string name="detailed_info">상세정보</string>
+    
+    <!-- Control Guide -->
+    <string name="control_guide">해충 퇴치 가이드</string>
+    <string name="step_1">1단계: 즉시 대응</string>
+    <string name="step_2">2단계: 침입 차단</string>
+    <string name="step_3">3단계: 예방 관리</string>
+    
+    <!-- Camera -->
+    <string name="camera">카메라</string>
+    <string name="gallery">갤러리</string>
+    <string name="align_bug">벌레를 화면 중앙에 맞춰주세요</string>
+    <string name="detailed_info_btn">상세정보</string>
+    <string name="find_control_btn">퇴치방법</string>
+    
+    <!-- Service -->
+    <string name="find_company">방역업체 찾기</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="call">전화</string>
+    <string name="directions">길찾기</string>
+    <string name="reviews">리뷰</string>
+    <string name="rating">평점</string>
+    
+    <!-- Common -->
+    <string name="back">뒤로</string>
+    <string name="search">검색</string>
+    <string name="filter">필터</string>
+</resources>
