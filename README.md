@@ -430,8 +430,6 @@ org.gradle.configureondemand=true
 - ✅ 최근 검색 기록
 - ✅ 다크 모드
 
----
+### 동영상
+![--ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a04fc03c-3d30-4884-beb6-6095147851c1)
 
-Made with ❤️ and 🐛 by 신민용
-
-**[다운로드](https://github.com/your-repo/releases)** | **[문제 신고](https://github.com/your-repo/issues)** | **[기여하기](https://github.com/your-repo/pulls)**
